@@ -1,5 +1,7 @@
 # Data_Cleaning_Queries_using_sql
 
+The project involves the exploration and cleaning of data from the dataset using SQL queries. 
+
 ### The project covers 
 * Standardize Date Format
 * Adding new columns
